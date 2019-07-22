@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">SUB1MADE</string>
+    <string name="title_film">Judul Film</string>
+    <string name="judul_movie">Judul Movie</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tanggal_rilis">Tanggal Rilis</string>
+    <string name="genre">Genre</string>
+    <!--TODO 3. array asset data-->
+    <array name="data_gambar">
+        <item>@drawable/poster_a_star</item>
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_bohemian</item>
+        <item>@drawable/poster_robinhood</item>
+        <item>@drawable/poster_venom</item>
+        <item>@drawable/poster_mortalengine</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_glass</item>
+    </array>
+    <string-array name="data_judul">
+        <item>A_star</item>
+        <item>Aquaman</item>
+        <item>Avengerinfinity</item>
+        <item>Bumblebee</item>
+        <item>Bohemian</item>
+        <item>Robinhood</item>
+        <item>Venom</item>
+        <item>Mortalengine</item>
+        <item>Dragon</item>
+        <item>Glass</item>
+    </string-array>
+    <string-array name="data_deskripsi">
+        <item> A Star Is Born.Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. </item>
+        <item>Aquaman.Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled
+            by the power-hungry King Orm.</item>
+        <item>Avengers: Infinity War.As the Avengers and their allies have continued to protect the world from threats too large
+            for any one hero to handle</item>
+        <item>Bumblebee.On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town.</item>
+        <item>Bohemian. Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take
+            the music world by storm </item>
+        <item>Robin Hood.A war-hardened Crusader and his Moorish commander mount an audacious revolt against the corrupt English
+            crown.</item>
+        <item>Venom.Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the
+            host of Venom</item>
+        <item>Mortal Engines. Many thousands of years in the future, Earth’s cities roam the globe on huge wheels..</item>
+        <item>As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. </item>
+        <item>Glass.In a series of escalating encounters, former security guard David Dunn uses his supernatural abilities to track Kevin Wendell Crumb</item>
+    </string-array>
+    <string-array name="data_tanggalrilis">
+        <item>October 3, 2018</item>
+        <item>December 7, 2018</item>
+        <item>April 25, 2018</item>
+        <item>December 15, 2018</item>
+        <item>October 24, 2018</item>
+        <item>November 20, 2018</item>
+        <item>September 28, 2018</item>
+        <item>November 27, 2018</item>
+        <item>January 3, 2019</item>
+        <item>January 16, 2019</item>
+    </string-array>
+    <string-array name="data_genre">
+        <item>Drama,Romance,Music</item>
+        <item>Action,Adventure,Fantasy</item>
+        <item>Adventure,Action,Fantasy</item>
+        <item>Action,Adventure,Science Fiction</item>
+        <item>Drama,Music</item>
+        <item>Adventure,Action,Thriller</item>
+        <item>Science Fiction,Action</item>
+        <item>Adventure,Fantasy</item>
+        <item>Animation,Family,Adventure</item>
+        <item>Thriller,Drama,Science Fiction</item>
+    </string-array>
+</resources>
